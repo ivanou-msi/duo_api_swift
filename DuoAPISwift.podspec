@@ -10,7 +10,6 @@ Pod::Spec.new do |spec|
       "Mike Brown" => 'mb@duo.com'
   }
   spec.social_media_url = "https://twitter.com/duo_labs"
-  spec.osx.deployment_target = "10.13"
   spec.ios.deployment_target = "13.0"
   spec.requires_arc = true
   spec.source = {
